@@ -1,0 +1,9 @@
+{
+  "name": "arena",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
